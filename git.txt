@@ -26,3 +26,4 @@ git branch  => check branches
 git checkout -b "main"  => add git branch
 git switch branchName   => change working branch
 git push origin branchName  => push to github
+git pull origin branchName  => pull code from github branch
