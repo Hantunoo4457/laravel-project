@@ -1,1 +1,27 @@
 untrack     stage       local repo
+
+index   index
+zwe     han
+    master
+
+
+
+    cosnt a = 10;                   const name = mgmg;
+    const age = 20; (zwe)           const b = 10;  (han)
+
+const name = mgmg;
+const age = 20;
+
+master
+
+
+
+
+commands
+
+git init    => add git to projejct
+git add .   => to staging area
+git commit -m "a short message" => local repo
+git branch  => check branches
+git checkout -b "main"  => add git branch
+git switch branchName   => change working branch
