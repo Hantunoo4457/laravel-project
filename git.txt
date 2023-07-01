@@ -1,1 +1,1 @@
-unstage     stage       local repo
+untrack     stage       local repo
